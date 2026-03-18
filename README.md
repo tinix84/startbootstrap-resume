@@ -1,3 +1,5 @@
+> **Note:** This is a reference fork. The original upstream repository is the actively maintained version. This fork is kept for personal reference and is not actively developed.
+
 # [Start Bootstrap - Resume](https://startbootstrap.com/themes/resume/)
 
 [Resume](https://startbootstrap.com/themes/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
